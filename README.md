@@ -39,4 +39,4 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 Hadi
-Meta Database Engineer Professional Certificate
+Meta Database Engineer Professional Certificate.
